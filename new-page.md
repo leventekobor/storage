@@ -2,7 +2,7 @@
 title: friday
 description: 
 published: 1
-date: 2020-04-24T20:06:12.409Z
+date: 2020-04-24T20:06:14.770Z
 tags: 
 ---
 
